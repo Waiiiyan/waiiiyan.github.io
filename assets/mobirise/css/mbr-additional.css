@@ -2146,7 +2146,7 @@ body {
 .cid-rnQkZgoROA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #55b4d4;
+  background-color: #5bcbf1;
 }
 .cid-rnQkZgoROA .mbr-figure {
   margin: 0 auto;
@@ -2251,77 +2251,10 @@ body {
 .cid-rnQnGTT16W H2 {
   color: #cc2952;
 }
-.cid-rnQptsvT9w {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rnQptsvT9w .counter-container {
-  color: #767676;
-}
-.cid-rnQptsvT9w .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rnQptsvT9w .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rnQptsvT9w .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rnQptsvT9w .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-.cid-rnQqAv4RA6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #5bcbf1;
-}
-.cid-rnQqAv4RA6 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rnQsbkMHON {
-  background: #ffffff;
-}
-.cid-rnQsbkMHON .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rnQsbkMHON .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rnQsbkMHON figcaption {
-  position: relative;
-}
-.cid-rnQsbkMHON figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rnQsbkMHON .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rnQsRmCJbV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #5bcbf1;
+  background-color: #ffffff;
 }
 .cid-rnQsRmCJbV .mbr-section-subtitle {
   color: #767676;
@@ -2410,7 +2343,7 @@ body {
 .cid-rnQtK5as1Z {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #5bcbf1;
 }
 .cid-rnQtK5as1Z .mbr-section-btn > * {
   margin: 0;
